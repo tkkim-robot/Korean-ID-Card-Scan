@@ -4,6 +4,7 @@ Korean-ID-Card-Scan
 ## About ID-Card-Scan
 This program scans information from Korean ID Card using computer vision techniques. Only OpenCV and Tesseract libraries are being used.
 
+<img src="img/dooly.jpg" alt="drawing" width="320"/>
 
 ## Importance
 It can scan important information on Korean ID card. It can be used at many situations that needs to automatically scan ID card. Currently, it is going to be used at fully-automated hotel (무인 호텔, 무인텔 등) in South Korea.
